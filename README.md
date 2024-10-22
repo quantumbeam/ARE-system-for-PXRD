@@ -2,6 +2,8 @@
 
 This repository contains supplementary materials for our paper "Autonomous robotic experimentation system for powder X-ray diffraction".
 
+<img src="overview.jpeg" width="100%" alt="Overview of the ARE system">
+
 ## Repository Contents
 
 This repository includes the following:
