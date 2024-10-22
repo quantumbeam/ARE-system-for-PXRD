@@ -1,0 +1,95 @@
+data_NIMS_MatNavi_4295281163_1_2
+
+#
+# COPYRIGHT NOTICE
+#
+# This CIF data is created using data from AtomWork, published 2010/06 by
+# National Institute for Materials Science (NIMS), Tsukuba, Japan. Copyright
+# 2010 by NIMS and  Materials Phases Data system (MPDS), Vitznau,
+# Switzerland. All Rghts Reserved.
+#
+# DISCLAIMER
+#
+# The values reported here are taken from the literature and other sources and
+# the author does not warrant their correctness nor accept any
+# responsibility for errors. Users are advised to consult the primarysources.
+#
+
+_chemical_formula_sum 'O2 Ti'
+_space_group_crystal_system tetragonal
+_symmetry_space_group_name_H-M 'I 41/a m d'
+_symmetry_Int_Tables_number 141
+
+loop_
+    _symmetry_equiv_pos_site_id
+    _symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x+1/2,-y,z+1/2
+3 -y+1/4,x+3/4,z+1/4
+4 y+1/4,-x+1/4,z+3/4
+5 -x+1/2,y,-z+1/2
+6 x,-y,-z
+7 y+1/4,x+3/4,-z+1/4
+8 -y+1/4,-x+1/4,-z+3/4
+9 -x,-y,-z
+10 x+1/2,y,-z+1/2
+11 y+3/4,-x+1/4,-z+3/4
+12 -y+3/4,x+3/4,-z+1/4
+13 x+1/2,-y,z+1/2
+14 -x,y,z
+15 -y+3/4,-x+1/4,z+3/4
+16 y+3/4,x+3/4,z+1/4
+17 x+1/2,y+1/2,z+1/2
+18 -x,-y+1/2,z
+19 -y+3/4,x+1/4,z+3/4
+20 y+3/4,-x+3/4,z+1/4
+21 -x,y+1/2,-z
+22 x+1/2,-y+1/2,-z+1/2
+23 y+3/4,x+1/4,-z+3/4
+24 -y+3/4,-x+3/4,-z+1/4
+25 -x+1/2,-y+1/2,-z+1/2
+26 x,y+1/2,-z
+27 y+1/4,-x+3/4,-z+1/4
+28 -y+1/4,x+1/4,-z+3/4
+29 x,-y+1/2,z
+30 -x+1/2,y+1/2,z+1/2
+31 -y+1/4,-x+3/4,z+1/4
+32 y+1/4,x+1/4,z+3/4
+
+_cell_length_a 3.784
+_cell_length_b 3.784
+_cell_length_c 9.515
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 136.2
+_cell_formula_units_Z 4
+
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_occupancy
+    _atom_site_symmetry_multiplicity
+    _atom_site_Wyckoff_symbol
+    _atom_site_U_iso_or_equiv
+    _atom_site_type_symbol
+O 0 0.25 0.1669 1.0 8 e ? O
+Ti 0 0.25 0.375 1.0 4 b ? Ti
+
+_publ_section_title 'Molecular Dynamic Simulation in Titanium Dioxide Polymorphs:Rutile, Brookite, and Anatase'
+_journal_coden_ASTM JACTAW
+_journal_name_full 'J. Am. Ceram. Soc.'
+_journal_year 1996
+_journal_volume 79
+_journal_page_first 1095
+_journal_page_last 1099
+_journal_language English
+
+loop_
+    _publ_author_name
+'Kim D.W.'
+'Enomoto N.'
+'Nakagawa Z.'
+'Kawamura K.'
