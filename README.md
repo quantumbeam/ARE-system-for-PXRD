@@ -28,9 +28,9 @@ If you use our data, methods, or findings in your research, please cite our pape
   title={Autonomous robotic experimentation system for powder {X-ray} diffraction},
   journal={Digital Discovery},
   year={2024},
-  volume={Volume},
-  issue={Issue},
-  pages={Page range},
+  volume={3},
+  issue={12},
+  pages={2523-2532},
   publisher={RSC},
   doi={10.1039/D4DD00190G},
   url={https://doi.org/10.1039/D4DD00190G}
